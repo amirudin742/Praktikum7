@@ -16,16 +16,19 @@ Alur Algoritmanya
 
 	-mendeklarasikan variabel b sebagai integer
 
-Berikut kode lengkapnya
+Berikut kodenya
 
-using namespace std;
+``using namespace std;
+
 void tukar(int &a, int &b){
 
     a=15;
 
     b=5;
 }
+
 int main()
+
 {
 
     int a,b;
@@ -48,7 +51,7 @@ int main()
 
     return 0;
 
-}
+}``
 
 Berikut adalah flowchartnya
 

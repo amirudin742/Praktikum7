@@ -19,16 +19,13 @@ Alur Algoritmanya
 Berikut kode lengkapnya
 
 using namespace std;
-
 void tukar(int &a, int &b){
 
     a=15;
 
     b=5;
-
 }
 int main()
-
 {
 
     int a,b;
